@@ -13,7 +13,7 @@ public class p24 {
 		a=a/10;
 		
 	}
-	System.out.println("sum of the digits is"+sum);
+	System.out.println("sum of the digits is "+sum);
 
 }
 }
